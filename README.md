@@ -23,7 +23,7 @@
 ### Installation & Setup
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/tblong0210/the-shadow-of-sword-hcmus.git](https://github.com/tblong0210/the-shadow-of-sword-hcmus.git)
+    git clone https://github.com/tblong0210/the-shadow-of-sword-hcmus.git
     ```
 2.  **Open the project in Unity:**
     * Launch **Unity Hub**.
